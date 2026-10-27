@@ -80,10 +80,6 @@ Then open `http://localhost:8000` in your browser. In GitHub Codespaces, open po
 ### Custom 404 page
 ![404 page](documentation/404(1).png)
 
-## Author
-
-Hartzell Guiang, ITE183 Web Systems and Technologies
-
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file.
